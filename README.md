@@ -11,3 +11,5 @@ If you are learning from this project, use it only in:
 - CTF platforms
 - intentionally vulnerable test environments
 - systems you own or are explicitly permitted to assess
+
+This project explores ransomware behavior in controlled environments for educational and security research purposes.
